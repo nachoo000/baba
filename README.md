@@ -1,0 +1,2 @@
+# baba
+setting up git
